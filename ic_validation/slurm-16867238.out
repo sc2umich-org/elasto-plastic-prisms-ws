@@ -1,0 +1,171 @@
+
+ Isotropic Plasticity enabled (not crystal plasticity) 
+Twinning is not enabled 
+generating problem mesh
+number of MPI processes: 12
+number of elements: 320
+number of degrees of freedom: 1575
+begin solve...
+
+
+increment: 0
+nonlinear iteration   0 [current residual: 4.29e+07, initial residual: 4.29e+07, relative residual: 1.00e+00]
+linear system solved in  22 iterations
+nonlinear iteration   1 [current residual: 6.90e-03, initial residual: 4.29e+07, relative residual: 1.61e-10]
+linear system solved in  27 iterations
+nonlinear iteration   2 [current residual: 2.59e-04, initial residual: 4.29e+07, relative residual: 6.04e-12]
+linear system solved in  55 iterations
+nonlinear iteration   3 [current residual: 2.07e-04, initial residual: 4.29e+07, relative residual: 4.82e-12]
+linear system solved in  54 iterations
+nonlinear iteration   4 [current residual: 1.85e-04, initial residual: 4.29e+07, relative residual: 4.30e-12]
+linear system solved in  50 iterations
+nonlinear iteration   5 [current residual: 1.73e-04, initial residual: 4.29e+07, relative residual: 4.03e-12]
+linear system solved in  60 iterations
+
+increment: 1
+nonlinear iteration   0 [current residual: 3.80e+07, initial residual: 3.80e+07, relative residual: 1.00e+00]
+linear system solved in  43 iterations
+nonlinear iteration   1 [current residual: 2.82e+04, initial residual: 3.80e+07, relative residual: 7.43e-04]
+linear system solved in  55 iterations
+nonlinear iteration   2 [current residual: 1.68e+01, initial residual: 3.80e+07, relative residual: 4.41e-07]
+linear system solved in  58 iterations
+nonlinear iteration   3 [current residual: 1.06e-02, initial residual: 3.80e+07, relative residual: 2.79e-10]
+linear system solved in  55 iterations
+nonlinear iteration   4 [current residual: 1.92e-04, initial residual: 3.80e+07, relative residual: 5.05e-12]
+linear system solved in  60 iterations
+nonlinear iteration   5 [current residual: 1.56e-04, initial residual: 3.80e+07, relative residual: 4.10e-12]
+linear system solved in  66 iterations
+
+increment: 2
+nonlinear iteration   0 [current residual: 3.78e+07, initial residual: 3.78e+07, relative residual: 1.00e+00]
+linear system solved in  46 iterations
+
+continuumPlasticity: Onset of plasticity
+
+nonlinear iteration   1 [current residual: 7.81e+05, initial residual: 3.78e+07, relative residual: 2.06e-02]
+linear system solved in  79 iterations
+nonlinear iteration   2 [current residual: 8.38e+03, initial residual: 3.78e+07, relative residual: 2.21e-04]
+linear system solved in  87 iterations
+nonlinear iteration   3 [current residual: 1.02e+01, initial residual: 3.78e+07, relative residual: 2.70e-07]
+linear system solved in  85 iterations
+nonlinear iteration   4 [current residual: 5.12e-03, initial residual: 3.78e+07, relative residual: 1.35e-10]
+linear system solved in  87 iterations
+nonlinear iteration   5 [current residual: 1.31e-04, initial residual: 3.78e+07, relative residual: 3.47e-12]
+linear system solved in  47 iterations
+
+increment: 3
+nonlinear iteration   0 [current residual: 3.94e+07, initial residual: 3.94e+07, relative residual: 1.00e+00]
+linear system solved in  54 iterations
+nonlinear iteration   1 [current residual: 8.47e+04, initial residual: 3.94e+07, relative residual: 2.15e-03]
+linear system solved in  88 iterations
+nonlinear iteration   2 [current residual: 8.76e+02, initial residual: 3.94e+07, relative residual: 2.22e-05]
+linear system solved in  88 iterations
+nonlinear iteration   3 [current residual: 3.97e-01, initial residual: 3.94e+07, relative residual: 1.01e-08]
+linear system solved in  75 iterations
+nonlinear iteration   4 [current residual: 2.07e-04, initial residual: 3.94e+07, relative residual: 5.27e-12]
+linear system solved in  86 iterations
+nonlinear iteration   5 [current residual: 1.61e-04, initial residual: 3.94e+07, relative residual: 4.09e-12]
+linear system solved in  44 iterations
+
+increment: 4
+nonlinear iteration   0 [current residual: 3.93e+07, initial residual: 3.93e+07, relative residual: 1.00e+00]
+linear system solved in  54 iterations
+nonlinear iteration   1 [current residual: 7.48e+04, initial residual: 3.93e+07, relative residual: 1.90e-03]
+linear system solved in  89 iterations
+nonlinear iteration   2 [current residual: 6.63e+02, initial residual: 3.93e+07, relative residual: 1.69e-05]
+linear system solved in  91 iterations
+nonlinear iteration   3 [current residual: 3.30e-01, initial residual: 3.93e+07, relative residual: 8.39e-09]
+linear system solved in  92 iterations
+nonlinear iteration   4 [current residual: 1.84e-04, initial residual: 3.93e+07, relative residual: 4.68e-12]
+linear system solved in  88 iterations
+nonlinear iteration   5 [current residual: 1.30e-04, initial residual: 3.93e+07, relative residual: 3.31e-12]
+linear system solved in  49 iterations
+projecting post processing fields
+output written to: results/solution-0004.pvtu and results/projectedFields-0004.pvtu 
+
+
+increment: 5
+nonlinear iteration   0 [current residual: 3.93e+07, initial residual: 3.93e+07, relative residual: 1.00e+00]
+linear system solved in  55 iterations
+nonlinear iteration   1 [current residual: 6.77e+04, initial residual: 3.93e+07, relative residual: 1.72e-03]
+linear system solved in  89 iterations
+nonlinear iteration   2 [current residual: 5.07e+02, initial residual: 3.93e+07, relative residual: 1.29e-05]
+linear system solved in  95 iterations
+nonlinear iteration   3 [current residual: 2.15e-01, initial residual: 3.93e+07, relative residual: 5.46e-09]
+linear system solved in  91 iterations
+nonlinear iteration   4 [current residual: 1.83e-04, initial residual: 3.93e+07, relative residual: 4.67e-12]
+linear system solved in  85 iterations
+nonlinear iteration   5 [current residual: 1.28e-04, initial residual: 3.93e+07, relative residual: 3.25e-12]
+linear system solved in  61 iterations
+
+increment: 6
+nonlinear iteration   0 [current residual: 3.93e+07, initial residual: 3.93e+07, relative residual: 1.00e+00]
+linear system solved in  62 iterations
+nonlinear iteration   1 [current residual: 6.25e+04, initial residual: 3.93e+07, relative residual: 1.59e-03]
+linear system solved in  87 iterations
+nonlinear iteration   2 [current residual: 4.10e+02, initial residual: 3.93e+07, relative residual: 1.04e-05]
+linear system solved in  80 iterations
+nonlinear iteration   3 [current residual: 2.08e-01, initial residual: 3.93e+07, relative residual: 5.29e-09]
+linear system solved in  90 iterations
+nonlinear iteration   4 [current residual: 1.56e-04, initial residual: 3.93e+07, relative residual: 3.97e-12]
+linear system solved in  82 iterations
+nonlinear iteration   5 [current residual: 1.18e-04, initial residual: 3.93e+07, relative residual: 3.01e-12]
+linear system solved in  64 iterations
+
+increment: 7
+nonlinear iteration   0 [current residual: 3.93e+07, initial residual: 3.93e+07, relative residual: 1.00e+00]
+linear system solved in  62 iterations
+nonlinear iteration   1 [current residual: 5.76e+04, initial residual: 3.93e+07, relative residual: 1.47e-03]
+linear system solved in  88 iterations
+nonlinear iteration   2 [current residual: 3.30e+02, initial residual: 3.93e+07, relative residual: 8.40e-06]
+linear system solved in  80 iterations
+nonlinear iteration   3 [current residual: 1.57e-01, initial residual: 3.93e+07, relative residual: 3.99e-09]
+linear system solved in  92 iterations
+nonlinear iteration   4 [current residual: 1.46e-04, initial residual: 3.93e+07, relative residual: 3.71e-12]
+linear system solved in  82 iterations
+nonlinear iteration   5 [current residual: 1.40e-04, initial residual: 3.93e+07, relative residual: 3.57e-12]
+linear system solved in  59 iterations
+
+increment: 8
+nonlinear iteration   0 [current residual: 3.93e+07, initial residual: 3.93e+07, relative residual: 1.00e+00]
+linear system solved in  62 iterations
+nonlinear iteration   1 [current residual: 5.62e+04, initial residual: 3.93e+07, relative residual: 1.43e-03]
+linear system solved in  88 iterations
+nonlinear iteration   2 [current residual: 2.76e+02, initial residual: 3.93e+07, relative residual: 7.01e-06]
+linear system solved in  81 iterations
+nonlinear iteration   3 [current residual: 2.03e-01, initial residual: 3.93e+07, relative residual: 5.16e-09]
+linear system solved in  83 iterations
+nonlinear iteration   4 [current residual: 1.65e-04, initial residual: 3.93e+07, relative residual: 4.20e-12]
+linear system solved in  87 iterations
+nonlinear iteration   5 [current residual: 1.34e-04, initial residual: 3.93e+07, relative residual: 3.41e-12]
+linear system solved in  47 iterations
+
+increment: 9
+nonlinear iteration   0 [current residual: 3.94e+07, initial residual: 3.94e+07, relative residual: 1.00e+00]
+linear system solved in  62 iterations
+nonlinear iteration   1 [current residual: 5.36e+04, initial residual: 3.94e+07, relative residual: 1.36e-03]
+linear system solved in  87 iterations
+nonlinear iteration   2 [current residual: 2.39e+02, initial residual: 3.94e+07, relative residual: 6.07e-06]
+linear system solved in  81 iterations
+nonlinear iteration   3 [current residual: 1.17e-01, initial residual: 3.94e+07, relative residual: 2.96e-09]
+linear system solved in  86 iterations
+nonlinear iteration   4 [current residual: 1.29e-04, initial residual: 3.94e+07, relative residual: 3.28e-12]
+linear system solved in  83 iterations
+nonlinear iteration   5 [current residual: 1.17e-04, initial residual: 3.94e+07, relative residual: 2.97e-12]
+linear system solved in  57 iterations
+projecting post processing fields
+output written to: results/solution-0009.pvtu and results/projectedFields-0009.pvtu 
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    |      47.1s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
+| assembly                        |        60 |      43.5s |        92% |
+| mesh and initialization         |         1 |      1.05s |       2.2% |
+| postprocess                     |        10 |     0.212s |      0.45% |
+| solve                           |        60 |     0.369s |      0.78% |
++---------------------------------+-----------+------------+------------+
+
